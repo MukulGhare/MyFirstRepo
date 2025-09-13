@@ -1,5 +1,6 @@
 package Collections.List;
 
+//Comment Added
 public class LinkedLists {
 
     static Node head;
